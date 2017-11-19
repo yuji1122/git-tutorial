@@ -1,6 +1,6 @@
 # Git Tutorial
 
-  * feature-A
-  * fix-B
-  * faeture-C
-  * faeture-D
+  - feature-A
+  - fix-B
+  - faeture-C
+  - faeture-D
